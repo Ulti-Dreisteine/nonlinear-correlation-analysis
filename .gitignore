@@ -1,0 +1,9 @@
+.idea/
+cache/
+tmp/
+trash/
+mod/logs/
+*.__pycache__/
+
+*.DS_Store
+*.pyc
