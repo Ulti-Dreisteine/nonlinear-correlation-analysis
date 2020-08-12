@@ -159,7 +159,7 @@ if __name__ == '__main__':
 	
 	# ---- 载入测试数据和参数 -----------------------------------------------------------------------
 	
-	from src.test.build_local_test_data import load_local_test_data
+	from src.local_data.build_local_test_data import load_local_test_data
 
 	data = load_local_test_data(label = 'patient')
 
